@@ -7,3 +7,6 @@ A crowdsourced transportation platform called Unter.
 
 ## Coveralls
 [![Coverage Status](https://coveralls.io/repos/github/shsteindorsson/unter/badge.svg?branch=development)](https://coveralls.io/github/shsteindorsson/unter?branch=development)
+
+<br>
+Delpoyed on [Heroku](https://unter-shs.herokuapp.com/)
